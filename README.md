@@ -1,6 +1,6 @@
 # The Odin Project - Odin Recipes Project
 
-This project is a basic recipe website containing multiple recipe pages accessible from `index.html.`
+This project is a basic recipe website containing multiple recipe pages accessible from `index.html`.
 
 Skills used in this project:
 
